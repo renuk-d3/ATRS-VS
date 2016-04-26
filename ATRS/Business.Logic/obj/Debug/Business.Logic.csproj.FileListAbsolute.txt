@@ -1,0 +1,9 @@
+D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Logic\bin\Debug\Business.Logic.dll
+D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Logic\bin\Debug\Business.Logic.pdb
+D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Logic\obj\Debug\Business.Logic.dll
+D:\Git\VS10\Git\ATRS-VS\ATRS\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\540188\Desktop\ATRS\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\540188\Desktop\ATRS\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\540188\Desktop\ATRS\Business.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\540188\Desktop\ATRS\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\540188\Desktop\ATRS\Business.Logic\obj\Debug\Business.Logic.pdb
